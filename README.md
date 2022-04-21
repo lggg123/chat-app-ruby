@@ -9,3 +9,6 @@
 ### Also create  a controller to channel the data bvy typing in the terminal this `rails g controller MessageController`
 
 ### After the controller is created we will create a channel room like so `rails g channel room`. 
+
+### We now edit the channel room and the others as well check out channel branch.
+
